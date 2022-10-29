@@ -2,3 +2,6 @@
 # tugas praktikum3
 
 ![img](creenshot/s1.png)
+
+
+![img](creenshot/s2.png)
